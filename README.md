@@ -5,6 +5,9 @@
 `V4`
 ## version de npm 
 `10.5.0`
+# Erreur
+les données sont stockées dans `data.db` si vous n'avez pas les imgages qui s'afficher dans Media Library ajouter celles d'`asset`
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
