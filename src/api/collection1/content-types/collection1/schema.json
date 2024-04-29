@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collection1s",
+  "info": {
+    "singularName": "collection1",
+    "pluralName": "collection1s",
+    "displayName": "Collection1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MyComponent": {
+      "type": "component",
+      "repeatable": true,
+      "component": "category1.component1"
+    },
+    "tiltle1": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_category1_component1s",
+  "info": {
+    "displayName": "component1",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "text"
+    }
+  }
+}
