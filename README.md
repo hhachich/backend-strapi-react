@@ -3,7 +3,8 @@
 `v20.12.2`
 ## version de Strapi 
 `V4`
-
+## version de npm 
+`10.5.0`
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
