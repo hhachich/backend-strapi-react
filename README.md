@@ -59,12 +59,12 @@ mdp : Strapi321
 
 ### Liste de tous les produits avec les Relations + un filtre
 
-Exemple produit avec id = 1
+Exemple produit avec id = 1 \
 `http://localhost:1337/api/products?populate=*&filters[id][$eq]=1`
 
 ### Liste de tous les catégories avec le mode internationalisation pour les pays
 
 Catégorie avec la description en anglais \
-`http://localhost:1337/api/categories?locale=en`
+`http://localhost:1337/api/categories?locale=en` \
 Catégorie avec la description en français \
-`http://localhost:1337/api/categories?locale=fr`
+`http://localhost:1337/api/categories?locale=fr` \
