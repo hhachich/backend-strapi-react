@@ -14,7 +14,7 @@
 
 # Data base
 
-BDD : SQL Lite
+BDD : `SQL Lite`
 Chemin de BDD : `./tmp/data.db`
 
 # Installation du projet
