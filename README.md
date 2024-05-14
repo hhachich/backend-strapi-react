@@ -67,4 +67,4 @@ Exemple produit avec id = 1 \
 Catégorie avec la description en anglais \
 `http://localhost:1337/api/categories?locale=en` \
 Catégorie avec la description en français \
-`http://localhost:1337/api/categories?locale=fr` \
+`http://localhost:1337/api/categories?locale=fr`
