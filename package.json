@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "strapi build",
-    "develop": "PORT=1338 strapi develop",
+    "develop": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi"
   },

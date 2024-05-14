@@ -12,9 +12,10 @@
 
 `10.5.0`
 
-# Erreur
+# data base
 
-les données sont stockées dans `data.db` si vous n'avez pas les imgages qui s'afficher dans Media Library ajouter celles d'`asset`
+BDD : SQL Lite
+Chemin de BDD : `./tmp/data.db`
 
 # Installation du projet
 
