@@ -14,7 +14,7 @@
 
 # Data base
 
-BDD : `SQL Lite`
+BDD : `SQL Lite` \
 Chemin de BDD : `./tmp/data.db`
 
 # Installation du projet
@@ -64,7 +64,7 @@ Exemple produit avec id = 1
 
 ### Liste de tous les catégories avec le mode internationalisation pour les pays
 
-Catégorie avec la description en anglais
+Catégorie avec la description en anglais \
 `http://localhost:1337/api/categories?locale=en`
-Catégorie avec la description en français
+Catégorie avec la description en français \
 `http://localhost:1337/api/categories?locale=fr`
