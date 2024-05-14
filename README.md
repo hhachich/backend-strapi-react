@@ -1,18 +1,18 @@
 # Info sur le projet
 
-## version de Node
+## Version de Node
 
 `v20.12.2`
 
-## version de Strapi
+## Version de Strapi
 
 `V4`
 
-## version de npm
+## Version de npm
 
 `10.5.0`
 
-# data base
+# Data base
 
 BDD : SQL Lite
 Chemin de BDD : `./tmp/data.db`
