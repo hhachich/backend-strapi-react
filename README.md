@@ -17,7 +17,12 @@
 BDD : `SQL Lite` \
 Chemin de BDD : `./tmp/data.db`
 
-# Installation du projet
+# Installation rapide grace a un script
+
+utiliser `install.sh`
+Ps: ceci ne fonctionne pas si vous etes sur WSL
+
+# Installation du projet manuelle
 
 ## Installation des dépendances
 
